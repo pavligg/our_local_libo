@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name="bin-template-functions",
+    name="our_local_libo",
     version="0.0.1",
     author="Pavel Pavel",
     author_email="1@gmail.com",
